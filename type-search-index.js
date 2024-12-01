@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"KeyValueClient"},{"p":"<Unnamed>","l":"KeyValueServer"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"KeyValueClient"},{"p":"<Unnamed>","l":"KeyValueServer"},{"p":"<Unnamed>","l":"KeyValueServer.ServerThread"}];updateSearchResults();
